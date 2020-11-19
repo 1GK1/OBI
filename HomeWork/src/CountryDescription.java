@@ -1,5 +1,0 @@
-interface CountryDescription {
-
-    boolean isLargeCountry();
-
-}
